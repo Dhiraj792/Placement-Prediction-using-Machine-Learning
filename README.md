@@ -24,7 +24,7 @@ Data Visualization – Analyze trends and correlations.
 
 Data Preprocessing – Handle missing values and prepare features.
 
-Model Building – Train ML models (e.g., Logistic Regression, Decision Tree).
+Model Building – Train ML models (e.g., Logistic Regression).
 
 Evaluation – Measure accuracy, precision, recall, and confusion matrix.
 
@@ -34,7 +34,7 @@ Prediction – Predict placement for new student data.
 
 Language: Python
 
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, joblib
+Libraries: pandas, numpy, matplotlib, scikit-learn,mlxtend
 
 Environment: Jupyter Notebook
 
@@ -60,7 +60,7 @@ Run all cells to train, test, and evaluate the model.
 
 Model achieves good accuracy on the test data.
 
-Visualization clearly shows how CGPA and IQ impact placement chances.
+Visualisation clearly shows how CGPA and IQ impact placement chances.
 
 Easy to extend with additional features or new algorithms.
 
